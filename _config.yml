@@ -29,14 +29,9 @@ description: Here's the description of my porject
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  EDA:
-    - EDA: "getstarted"
-    - Other sites that use this template: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Feature Engineering:
-    - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
-  Model: "https://www.linkedin.com/school/george-washington-university/about/"
+  EDA: "getstarted"
+  Feature Engineering: "md-example"
+  Model & Conclusion: "featured-users"
 
 # --- Footer options --- #
 
