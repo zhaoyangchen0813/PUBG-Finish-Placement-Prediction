@@ -29,9 +29,9 @@ description: Here's the description of my porject
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  EDA: "getstarted"
-  Feature Engineering: "md-example"
-  Model & Conclusion: "featured-users"
+  EDA: "EDA"
+  Feature Engineering: "feature-engineering"
+  Model & Conclusion: "model-conclusion"
 
 # --- Footer options --- #
 
