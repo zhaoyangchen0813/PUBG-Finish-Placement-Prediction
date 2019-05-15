@@ -15,7 +15,7 @@ baseurl: "/PUBG-Finish-Placement-Prediction"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: My Data Science Project
+title: PUBG Finish Placement Prediction
 
 # Short description of your site
 description: Here's the description of my porject
@@ -30,21 +30,21 @@ description: Here's the description of my porject
 navbar-links:
   Home: ""
   Resources:
-    - Getting started: "getstarted"
+    - EDA: "getstarted"
     - Other sites that use this template: "featured-users"
     - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Example pages:
+  Feature Engineering:
     - Example of a Markdown page: "md-example"
     - Example of an HTML page: "html-example"
-  About me: "https://www.linkedin.com/school/george-washington-university/about/"
+  Model: "https://www.linkedin.com/school/george-washington-university/about/"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
+  name: Zhaoyang Chen
+  email: "zhaoyangchen0813@gmail.com"
   facebook: yourfacebook
   github: yourgithub
   twitter: yourtwitter
