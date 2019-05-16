@@ -1,7 +1,5 @@
 ---
 layout: page
-title: Markdown-based page example
-subtitle: Subtitle goes here
 bigimg: /img/pubg2.jpg
 ---
 
