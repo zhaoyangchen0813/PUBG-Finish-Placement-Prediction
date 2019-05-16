@@ -16,9 +16,11 @@ bigimg: /img/pubg2.jpg
 ![GW Data Science logo](/img/image_2.png)
 
 4). More kills means more damage dealt
+
 ![GW Data Science logo](/img/image_3.png)
 
 5). Number of kills and damage dealt have a positive correlation to the win place percent
+
 ![GW Data Science logo](/img/image_5.png)
 
 
