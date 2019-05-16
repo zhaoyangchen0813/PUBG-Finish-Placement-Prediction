@@ -8,7 +8,7 @@ bigimg: /img/pubg2.jpg
 ## Killers And Damage Dealt:
 1. The average kill of a player is 0.9247835321393355
 
-/img/image_1.png
+(/img/image_1.png)
 
 ## How about a link?
 
