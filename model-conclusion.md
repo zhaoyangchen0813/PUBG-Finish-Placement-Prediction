@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Model And Conclusion
+title: Models And Conclusion
 bigimg: /img/pubg4.jpg
 ---
 
