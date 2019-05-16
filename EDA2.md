@@ -3,7 +3,7 @@ layout: page
 bigimg: /img/pubg2.jpg
 ---
 
-## The Killers and Damage Dealt
+## The Distance Travelled
 A player in PUBG game can choose to walk, swim or even drive a vehicle
 
 1). The average walking distance is: 1154.21 meters, 
