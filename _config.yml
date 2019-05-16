@@ -30,9 +30,9 @@ description: Here's the description of my porject
 navbar-links:
   Home: ""
   EDA: 
-    - Killers And Damage Dealt: "EDA"
+    - Kills And Damage Dealt: "EDA"
     - Medical Items Used: "EDA"
-    - "Distance Travelled: "EDA"
+    - Distance Travelled: "EDA"
   Feature Engineering: "feature-engineering"
   Model & Conclusion: "model-conclusion"
 
