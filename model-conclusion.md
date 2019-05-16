@@ -8,15 +8,17 @@ bigimg: /img/pubg4.jpg
 
 The dataset was partitioned into 70% training set and 30% test set
 
-Training set has a shape (3111784, 44)
+Training set has a shape of (3111784, 44)
+
 
 ## First Random Forest Model
 
-First Model set the parameter 'n_estimators' = 60, 'min_samples_leaf" = 4, and 'max_features' = 0.5
+First Model has parameter 'n_estimators' = 60, 'min_samples_leaf" = 4, and 'max_features' = 0.5
 
 The metric used to measure the model is Mean Absolute Error (MAE)
 
 Result: MAE train is 0.033928063419654556, MAE test is 0.05548596242011615
+
 
 ## Feature Selection Using First Random Forest Model
 
@@ -31,17 +33,20 @@ Select the top 15th most important features
 
 Select features that have importance greater than 0.005
 
+
 ## Second Random Forest Model
 
-Only use the selected feature to train the model.
+Only use the selected features to train the model.
 
 Result: MAE train is 0.033445120284611204, MAE test is 0.0565149285124814
 
 Compare to the first model, the MAE decreases on the training set, but increases on the test set
 
+
 ## Recommendations
 
 The size of the dataset is relatively large which caused some difficulties tuning the parameters of the model. Increasing the parameter “n_estimators” could improve the performance of the model. Also, applying cross validation and grid search to the model to tune other parameters could also improve the model, but could also cost huge amount of running time. Separating the solo mode data from the original dataset, and studying it individually could make a big difference. Overall, EDA and feature engineering are the two most important stages of the project. Tuning the parameters requires huge amount of time which is not very recommended.
+
 
 ## Conclusion
 
