@@ -1,8 +1,9 @@
 ---
 layout: page
+title: Feature Engineering
 bigimg: /img/pubg3.jpeg
 ---
-## Feature Engineering
+
 
 ## Explore The Pearson Correlation Graph
 
