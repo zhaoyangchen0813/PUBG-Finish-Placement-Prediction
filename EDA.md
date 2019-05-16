@@ -4,7 +4,8 @@ bigimg: /img/pubg2.jpg
 ---
 
 ## The Killers and Damage Dealt
-1). The average kill of a player is 0.9247835321393355
+1). The average kill of a player is 0.924
+
 2). More than half of player could not make a single kill
 
 ![GW Data Science logo](/img/image_1.png)
