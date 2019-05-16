@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Markdown-based page example
-subtitle: Subtitle goes here
+title: Model And Conclusion
 bigimg: /img/pubg4.jpg
 ---
 
