@@ -9,7 +9,7 @@ PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale g
 
 
 ## Data
-The data was acquired from an active competition from Kaggle.com. The data sett contains 4,446,966 samples, and each sample has 29 factors, target variable included. 
+The data was acquired from an active competition from Kaggle.com. The data set contains 4,446,966 samples, and each sample has 29 factors, target variable included. Data includeds players post game stats which are used to predict the target variable winPlacePerc.
 
-Target Variable: winPlacePerc: players' finishing placement, on a scale from 1 (first place) to 0 (last place).
+winPlacePerc is the target variable. It represents players' finishing placement, on a scale from 1 (first place) to 0 (last place).
 
