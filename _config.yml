@@ -28,7 +28,7 @@ title: PUBG Finish Placement Prediction
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Project Introduction: "Introduction"
   EDA: 
     - Kills And Damage Dealt: "EDA"
     - Medical Items Used: "EDA1"
