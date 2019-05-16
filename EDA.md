@@ -12,6 +12,7 @@ bigimg: /img/pubg2.jpg
 
 
 3.) Damage Dealt by zero killers 
+
 ![GW Data Science logo](/img/image_2.png)
 
 4). More kills means more damage dealt
