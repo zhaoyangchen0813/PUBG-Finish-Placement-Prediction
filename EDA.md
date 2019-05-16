@@ -5,9 +5,9 @@ subtitle: Subtitle goes here
 bigimg: /img/pubg2.jpg
 ---
 
-## Here is where we can insert an image:
+## Killers And Damage Dealt:
 
-![GW Data Science logo](/img/gwdsp.png)
+![GW Data Science logo](/img/image1)
 
 ## How about a link?
 
