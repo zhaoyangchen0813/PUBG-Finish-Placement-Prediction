@@ -29,7 +29,10 @@ description: Here's the description of my porject
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  EDA: "EDA"
+  EDA: 
+  - Killers And Damage Dealt: "EDA"
+  - Medical Items Used: "EDA"
+  - "Distance Travelled: "EDA"
   Feature Engineering: "feature-engineering"
   Model & Conclusion: "model-conclusion"
 
