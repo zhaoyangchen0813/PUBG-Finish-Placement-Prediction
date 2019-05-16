@@ -31,8 +31,8 @@ navbar-links:
   Home: ""
   EDA: 
     - Kills And Damage Dealt: "EDA"
-    - Medical Items Used: "EDA"
-    - Distance Travelled: "EDA"
+    - Medical Items Used: "EDA1"
+    - Distance Travelled: "EDA2"
   Feature Engineering: "feature-engineering"
   Model & Conclusion: "model-conclusion"
 
