@@ -5,27 +5,20 @@ subtitle: Subtitle goes here
 bigimg: /img/pubg2.jpg
 ---
 
-## Killers And Damage Dealt:
-1. The average kill of a player is 0.9247835321393355
+## The Killers and Damage Dealt
+1). The average kill of a player is 0.9247835321393355
+2). More than half of player could not make a single kill
 
 ![GW Data Science logo](/img/image_1.png)
 
-## How about a link?
 
-And of course some text, and maybe [a link to https://datasci.columbian.gwu.edu/](https://datasci.columbian.gwu.edu/)
+3.) Damage Dealt by zero killers 
+![GW Data Science logo](/img/image_2.png)
 
-## Or some code?
+4). More kills means more damage dealt
+![GW Data Science logo](/img/image_3.png)
 
-Some code might go here:
+5). Number of kills and damage dealt have a positive correlation to the win place percent
+![GW Data Science logo](/img/image_5.png)
 
-```
-x <- 5 # Here's some R code
-```
 
-What if I just paste the HTML for a plotly plot?
-
-We can do it with a line of markdown that looks like this (without the slashes - I haven't solved that problem just yet...):
-```
-\{\% include jupyter-basic_bar.html \%\}
-```
-{% include jupyter-basic_bar.html %}
